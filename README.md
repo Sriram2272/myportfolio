@@ -5,15 +5,15 @@ Light and Dark Theme Personal Portfolio Website written using Flask Framework in
 ## Screenshots
 - Light Theme Cropped
 
-  ![Light Theme Cropped](https://github.com/dmdhrumilmistry/Flask-Portfolio/blob/main/.images/Light-Homepage-Crop.png?raw=True)
+  ![Light Theme Cropped])
   
 - Light Theme
 
-  ![Light Theme](https://github.com/dmdhrumilmistry/Flask-Portfolio/blob/main/.images/Light-Homepage.png?raw=True)
+  ![Light Theme]()
 
 - Dark Theme
 
-  ![Dark Theme](https://github.com/dmdhrumilmistry/Flask-Portfolio/blob/main/.images/Dark-Homepage.png?raw=True)
+  ![Dark Theme]()
 
 ## Technologies Used
 - Frontend
